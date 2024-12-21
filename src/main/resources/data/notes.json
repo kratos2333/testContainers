@@ -1,0 +1,184 @@
+{
+  "notes": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Meeting notes for project Alpha",
+      "body": "Discussed project milestones and upcoming deadlines. Next meeting scheduled for Monday."
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Grocery list",
+      "body": "Buy milk, eggs, bread, and butter. Check for discounts on fruits."
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "Workout plan",
+      "body": "Focus on cardio for 30 minutes followed by strength training."
+    },
+    {
+      "userId": 2,
+      "id": 4,
+      "title": "Birthday ideas for John",
+      "body": "Plan a surprise party with his favorite cake and music."
+    },
+    {
+      "userId": 2,
+      "id": 5,
+      "title": "Weekend trip notes",
+      "body": "Pack essentials: sunscreen, sunglasses, and hiking boots."
+    },
+    {
+      "userId": 2,
+      "id": 6,
+      "title": "Books to read",
+      "body": "Add 'Atomic Habits' and 'The Lean Startup' to the list."
+    },
+    {
+      "userId": 3,
+      "id": 7,
+      "title": "Daily journal entry",
+      "body": "Had a productive day at work and finished reading a book."
+    },
+    {
+      "userId": 3,
+      "id": 8,
+      "title": "Travel packing checklist",
+      "body": "Include passport, tickets, toiletries, and first aid kit."
+    },
+    {
+      "userId": 3,
+      "id": 9,
+      "title": "Recipe for spaghetti",
+      "body": "Boil pasta, prepare tomato sauce, add basil and parmesan cheese."
+    },
+    {
+      "userId": 4,
+      "id": 10,
+      "title": "Monthly budget",
+      "body": "Track expenses under groceries, entertainment, and savings."
+    },
+    {
+      "userId": 4,
+      "id": 11,
+      "title": "Team project tasks",
+      "body": "Assign roles and ensure regular updates in the Slack channel."
+    },
+    {
+      "userId": 4,
+      "id": 12,
+      "title": "Gift ideas for Sarah",
+      "body": "Look for a good book or a custom photo frame."
+    },
+    {
+      "userId": 5,
+      "id": 13,
+      "title": "Movie watchlist",
+      "body": "Add 'Inception', 'The Matrix', and 'Interstellar' to the queue."
+    },
+    {
+      "userId": 5,
+      "id": 14,
+      "title": "Office supplies to order",
+      "body": "Pens, notepads, printer ink, and staplers."
+    },
+    {
+      "userId": 5,
+      "id": 15,
+      "title": "Weekend chores",
+      "body": "Clean the house, do laundry, and mow the lawn."
+    },
+    {
+      "userId": 6,
+      "id": 16,
+      "title": "Project Beta brainstorming",
+      "body": "Consider innovative solutions and outline potential challenges."
+    },
+    {
+      "userId": 6,
+      "id": 17,
+      "title": "Health goals",
+      "body": "Drink 2 liters of water daily and maintain a balanced diet."
+    },
+    {
+      "userId": 6,
+      "id": 18,
+      "title": "Gardening tips",
+      "body": "Water plants in the morning and use organic fertilizers."
+    },
+    {
+      "userId": 7,
+      "id": 19,
+      "title": "Conference notes",
+      "body": "Keynote speaker emphasized the importance of sustainability."
+    },
+    {
+      "userId": 7,
+      "id": 20,
+      "title": "Tech gadgets wishlist",
+      "body": "Add noise-cancelling headphones and a smart speaker."
+    },
+    {
+      "userId": 7,
+      "id": 21,
+      "title": "Home renovation ideas",
+      "body": "Focus on kitchen remodeling and adding more storage."
+    },
+    {
+      "userId": 8,
+      "id": 22,
+      "title": "Learning goals for this month",
+      "body": "Complete the online Java course and start Python basics."
+    },
+    {
+      "userId": 8,
+      "id": 23,
+      "title": "Workout playlist",
+      "body": "Include energetic tracks to stay motivated during exercise."
+    },
+    {
+      "userId": 8,
+      "id": 24,
+      "title": "Photography tips",
+      "body": "Experiment with natural light and learn the rule of thirds."
+    },
+    {
+      "userId": 9,
+      "id": 25,
+      "title": "Household repairs",
+      "body": "Fix the leaking tap and replace broken tiles in the bathroom."
+    },
+    {
+      "userId": 9,
+      "id": 26,
+      "title": "Car maintenance checklist",
+      "body": "Check tire pressure, oil levels, and clean air filters."
+    },
+    {
+      "userId": 9,
+      "id": 27,
+      "title": "Budget travel tips",
+      "body": "Book tickets early and look for affordable accommodations."
+    },
+    {
+      "userId": 10,
+      "id": 28,
+      "title": "App ideas",
+      "body": "Develop an app for tracking daily habits with gamification."
+    },
+    {
+      "userId": 10,
+      "id": 29,
+      "title": "Cooking experiments",
+      "body": "Try making homemade pasta and baking sourdough bread."
+    },
+    {
+      "userId": 10,
+      "id": 30,
+      "title": "Winter holiday plans",
+      "body": "Research ski resorts and pack warm clothing."
+    }
+  ]
+}
